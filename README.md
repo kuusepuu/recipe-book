@@ -4,4 +4,4 @@ A collection of my favourite recipes. Each recipe is a separate Markdown file in
 
 ## Recipes
 
-- _No recipes yet_
+- _No recipes yet, check back soon!_
